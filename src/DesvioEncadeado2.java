@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DesvioEncadeado {
+public class DesvioEncadeado2 {
 
 	public static void main(String[] args) {
 		/*Uma ONG resolveu prestar um serviço bem diferente: ela oferece vans para buscar pessoas com qualquer tipo de dificuldade de locomoção para poderem votar.
